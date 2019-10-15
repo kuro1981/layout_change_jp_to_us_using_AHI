@@ -22,8 +22,8 @@ return
 	;::;
 	+::Send `:
 ; jp -= us _- 
-	-::_
-	=::Send -
+	-::Send -
+	=::_
 ; jp :* us '
 	:::Send '
 	**::Send "
